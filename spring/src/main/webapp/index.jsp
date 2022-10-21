@@ -11,7 +11,11 @@
 <script type="text/javascript">
 //	location.href="test.do";
 	location.href="boardlist.do";
+<<<<<<< HEAD
 	//테스트용
+=======
+	//테스테스
+>>>>>>> user1
 </script>
 
 </body>
