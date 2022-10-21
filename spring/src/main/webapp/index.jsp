@@ -11,6 +11,7 @@
 <script type="text/javascript">
 //	location.href="test.do";
 	location.href="boardlist.do";
+	//테스트용
 </script>
 
 </body>
